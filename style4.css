@@ -126,6 +126,8 @@ nav {
   border-top-left-radius: 7px;
   border-bottom-left-radius: 7px;
   border: none;
+
+  -webkit-appearance: none;
 }
 
 #header-search::placeholder {
